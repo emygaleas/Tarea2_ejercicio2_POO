@@ -1,5 +1,5 @@
 public class Empleado {
-    //nombre, posición en el campo, edad y número de camiseta
+    //nombre, cargo, salario y fecha de ingreso (dia, mes, anio)
     private String nombre;
     private String cargo;
     private Double salario;
